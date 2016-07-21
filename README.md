@@ -24,5 +24,7 @@ Private Repo for learning data science tools and methods from Coursera
 ##Useful resources
 * [Intro to markdown](http://daringfireball.net/projects/markdown/)
 * [R Markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown)
+* [Upgrading/Installing R on Ubuntu]()
+* [Interactive Charts Using Slidify](http://slidify.github.io/dcmeetup/demos/interactive/)
 
 
